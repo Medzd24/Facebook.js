@@ -5,7 +5,7 @@
     publisherID:6495791564085835,
     adUnits: [9539379484,9539379484],
     cookie: "__CLICK",
-    message: "انقر على الإعلانات لدعم .... Click on Ads to support ",
+    message: "انقر على الاعلان لاغلاقه .... Click on Ads to support ",
     maxage: 24*60*60
   })
   /*]]>*/
